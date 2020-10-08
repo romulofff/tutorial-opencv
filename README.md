@@ -1,6 +1,6 @@
 # Tutorial de OpenCV com Python e Jupyter
 
-Este repositório contem um tutorial básico de [OpenCV](https://opencv.org/) utilizando a lingaugem [Python](https://www.python.org/) através de [Jupyter notebooks](https://jupyter.org/). Nele são abordadas as funções básicas da biblioteca.
+Este repositório contém um tutorial básico de [OpenCV](https://opencv.org/) utilizando a lingaugem [Python](https://www.python.org/) através de [Jupyter notebooks](https://jupyter.org/). Nele são abordadas as funções básicas da biblioteca.
 
 ## Conteúdo
 
@@ -25,7 +25,7 @@ git clone https://github.com/romulofff/tutorial-opencv.git
 ```
 
 1. Instalar o [Poetry](www.python-poetry.org/) através deste [tutorial](https://python-poetry.org/docs/#installation).
-2. Instalar as bibiotecas utilizadas no tutorial e criar o ambiente virtual usando
+2. Instalar as bibliotecas utilizadas no tutorial e criar o ambiente virtual usando
 ```
 poetry install
 ```

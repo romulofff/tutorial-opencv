@@ -6,7 +6,7 @@ authors = ["Rômulo Férrer Filho <romulofffufc@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-jupyterlab = "^2.2.8"
+jupyterlab = "^3.6.7"
 numpy = "^1.22.0"
 
 opencv-python = "^4.4.0"
